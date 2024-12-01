@@ -1,0 +1,75 @@
+a {
+    text-decoration: none;
+  }
+  
+  
+  .bgsctd{
+      background-color: #272829;
+      height: 6rem;
+      margin-top: -2rem;
+      margin-bottom: 2rem;
+      border-radius: 0.5rem;
+    }
+  
+    .bgscctd{
+      background-color: rgb(213, 201, 183) ;
+      height: 100%;
+    }
+  
+    .activetd {
+      display: inline-block;
+      margin-top: -3rem;
+      width: 11rem;
+      height: 3rem;
+      text-align: center;
+      margin-right: -55.8rem;
+      margin-left: 56.8rem;
+      font-size: 15px;
+      color: black;
+      border-top-left-radius: 0.5rem;
+      border-color: #876804;
+      border-width: 1px;
+      border-top-right-radius: 0.5rem;
+      padding: 1rem;
+      background-color: #c6a32f;
+      
+    }
+  
+    .notactivetd {
+      display: inline-block;
+      margin-top: -3rem;
+      width: 11rem;
+      height: 3rem;
+      text-align: center;
+      margin-right: -55.8rem;
+      margin-left: 56.8rem;
+      font-size: 15px;
+      color: black;
+      border-top-left-radius: 0.5rem;
+      border-color: #876804;
+      border-width: 1px;
+      border-top-right-radius: 0.5rem;
+      padding: 1rem;
+      background-color: #ffd446;
+        
+    }
+  
+  .profiletexttd{
+      font-size: 25px;
+      margin-left: 1rem;
+      margin-top: 0.6rem;
+      padding-top: 0.5rem;
+      color: white;
+      margin-bottom: -1rem;
+  }
+  
+  .profiletextpasstd{
+      font-size: 25px;
+      margin-left: 1rem;
+      margin-top: 1rem;
+      padding-top: 0.5rem;
+      color: white;
+      margin-bottom: -1.15rem;
+      
+  
+  }
