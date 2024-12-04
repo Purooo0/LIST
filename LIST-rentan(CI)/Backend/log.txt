@@ -1,0 +1,120 @@
+Title: buku tulis, Author: bintang, Publisher: mihoyo, Status: Reading, Score: 5
+Title: buku tulis, Author: bintang, Publisher: mihoyo, Status: Reading, Score: 5
+Title: buku tulis, Author: bintang, Publisher: mihoyo, Status: Reading, Score: 5
+Title: Buku"; echo test >> reading_list.txt, Author: ajax, Publisher: mihoyo, Status: Finished, Score: 5
+Title: Buku"; echo test >> reading_list.txt, Author: ajax, Publisher: mihoyo, Status: Finished, Score: 5
+Title: Buku"; echo test >> reading_list.txt, Author: ajax, Publisher: mihoyo, Status: Finished, Score: 5
+Title: BukuNVM_INC=/Users/adhelia/.nvm/versions/node/v20.12.2/include/node
+TERM_PROGRAM=vscode
+NVM_CD_FLAGS=-q
+TERM=xterm-256color
+SHELL=/bin/zsh
+TMPDIR=/var/folders/k6/mt4c2wy53w94j56rh_g0r4fm0000gq/T/
+TERM_PROGRAM_VERSION=1.95.3
+ZDOTDIR=/Users/adhelia
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+MallocNanoZone=0
+NVM_DIR=/Users/adhelia/.nvm
+USER=adhelia
+COMMAND_MODE=unix2003
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.31xCkCdkbz/Listeners
+__CF_USER_TEXT_ENCODING=0x1F7:0x0:0x0
+PATH=/Users/adhelia/.juliaup/bin:/Users/adhelia/.nvm/versions/node/v20.12.2/bin:/Users/adhelia/anaconda3/bin:/Users/adhelia/Downloads/php-8.3.4/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/X11/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/adhelia/Library/Application Support/JetBrains/Toolbox/scripts
+_=/usr/bin/env
+USER_ZDOTDIR=/Users/adhelia
+__CFBundleIdentifier=com.microsoft.VSCode
+PWD=/Users/adhelia/Downloads/LIST/Backend
+LANG=en_US.UTF-8
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+VSCODE_INJECTION=1
+SHLVL=2
+HOME=/Users/adhelia
+VSCODE_GIT_ASKPASS_MAIN=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js
+LOGNAME=adhelia
+VSCODE_GIT_IPC_HANDLE=/var/folders/k6/mt4c2wy53w94j56rh_g0r4fm0000gq/T/vscode-git-4d8b826ce8.sock
+NVM_BIN=/Users/adhelia/.nvm/versions/node/v20.12.2/bin
+PORT=5000
+VSCODE_GIT_ASKPASS_NODE=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)
+GIT_ASKPASS=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh
+DISPLAY=/private/tmp/com.apple.launchd.DW7eaC4HIY/org.xquartz:0
+MONGODB_URI=mongodb+srv://mochanp26:mochanp26@project.wafvr.mongodb.net/?retryWrites=true&w=majority&appName=project
+COLORTERM=truecolor >> reading_list.txt, Author: ajax, Publisher: mihoyo, Status: Ready to Start, Score: 4
+Title: BukuNVM_INC=/Users/adhelia/.nvm/versions/node/v20.12.2/include/node
+TERM_PROGRAM=vscode
+NVM_CD_FLAGS=-q
+TERM=xterm-256color
+SHELL=/bin/zsh
+TMPDIR=/var/folders/k6/mt4c2wy53w94j56rh_g0r4fm0000gq/T/
+TERM_PROGRAM_VERSION=1.95.3
+ZDOTDIR=/Users/adhelia
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+MallocNanoZone=0
+NVM_DIR=/Users/adhelia/.nvm
+USER=adhelia
+COMMAND_MODE=unix2003
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.31xCkCdkbz/Listeners
+__CF_USER_TEXT_ENCODING=0x1F7:0x0:0x0
+PATH=/Users/adhelia/.juliaup/bin:/Users/adhelia/.nvm/versions/node/v20.12.2/bin:/Users/adhelia/anaconda3/bin:/Users/adhelia/Downloads/php-8.3.4/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/X11/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/adhelia/Library/Application Support/JetBrains/Toolbox/scripts
+_=/usr/bin/env
+USER_ZDOTDIR=/Users/adhelia
+__CFBundleIdentifier=com.microsoft.VSCode
+PWD=/Users/adhelia/Downloads/LIST/Backend
+LANG=en_US.UTF-8
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+VSCODE_INJECTION=1
+SHLVL=2
+HOME=/Users/adhelia
+VSCODE_GIT_ASKPASS_MAIN=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js
+LOGNAME=adhelia
+VSCODE_GIT_IPC_HANDLE=/var/folders/k6/mt4c2wy53w94j56rh_g0r4fm0000gq/T/vscode-git-4d8b826ce8.sock
+NVM_BIN=/Users/adhelia/.nvm/versions/node/v20.12.2/bin
+PORT=5000
+VSCODE_GIT_ASKPASS_NODE=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)
+GIT_ASKPASS=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh
+DISPLAY=/private/tmp/com.apple.launchd.DW7eaC4HIY/org.xquartz:0
+MONGODB_URI=mongodb+srv://mochanp26:mochanp26@project.wafvr.mongodb.net/?retryWrites=true&w=majority&appName=project
+COLORTERM=truecolor >> reading_list.txt, Author: ajax, Publisher: mihoyo, Status: Ready to Start, Score: 4
+Title: BukuNVM_INC=/Users/adhelia/.nvm/versions/node/v20.12.2/include/node
+TERM_PROGRAM=vscode
+NVM_CD_FLAGS=-q
+TERM=xterm-256color
+SHELL=/bin/zsh
+TMPDIR=/var/folders/k6/mt4c2wy53w94j56rh_g0r4fm0000gq/T/
+TERM_PROGRAM_VERSION=1.95.3
+ZDOTDIR=/Users/adhelia
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+MallocNanoZone=0
+NVM_DIR=/Users/adhelia/.nvm
+USER=adhelia
+COMMAND_MODE=unix2003
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.31xCkCdkbz/Listeners
+__CF_USER_TEXT_ENCODING=0x1F7:0x0:0x0
+PATH=/Users/adhelia/.juliaup/bin:/Users/adhelia/.nvm/versions/node/v20.12.2/bin:/Users/adhelia/anaconda3/bin:/Users/adhelia/Downloads/php-8.3.4/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/X11/bin:/Library/Apple/usr/bin:/Applications/VMware Fusion.app/Contents/Public:/Users/adhelia/Library/Application Support/JetBrains/Toolbox/scripts
+_=/usr/bin/env
+USER_ZDOTDIR=/Users/adhelia
+__CFBundleIdentifier=com.microsoft.VSCode
+PWD=/Users/adhelia/Downloads/LIST/Backend
+LANG=en_US.UTF-8
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+XPC_FLAGS=0x0
+XPC_SERVICE_NAME=0
+VSCODE_INJECTION=1
+SHLVL=2
+HOME=/Users/adhelia
+VSCODE_GIT_ASKPASS_MAIN=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js
+LOGNAME=adhelia
+VSCODE_GIT_IPC_HANDLE=/var/folders/k6/mt4c2wy53w94j56rh_g0r4fm0000gq/T/vscode-git-4d8b826ce8.sock
+NVM_BIN=/Users/adhelia/.nvm/versions/node/v20.12.2/bin
+PORT=5000
+VSCODE_GIT_ASKPASS_NODE=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)
+GIT_ASKPASS=/Users/adhelia/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh
+DISPLAY=/private/tmp/com.apple.launchd.DW7eaC4HIY/org.xquartz:0
+MONGODB_URI=mongodb+srv://mochanp26:mochanp26@project.wafvr.mongodb.net/?retryWrites=true&w=majority&appName=project
+COLORTERM=truecolor >> reading_list.txt, Author: ajax, Publisher: mihoyo, Status: Ready to Start, Score: 4
+"Title: buku"; printenv , Author: safaf, Publisher: sfsef, Status: Reading, Score: 4" >> log.txt
+"Title: buku"; printenv , Author: safaf, Publisher: sfsef, Status: Reading, Score: 4" >> log.txt
+"Title: buku"; printenv , Author: safaf, Publisher: sfsef, Status: Reading, Score: 4" >> log.txt
